@@ -1,6 +1,6 @@
 void main(void)
 {
-	//printf("test");
+	printf("test");
 	while(1)
 	{
 		;
